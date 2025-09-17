@@ -2,7 +2,7 @@
 
 # read 
 /src/main/resources/application.yml
-gitignore
+.gitignor
 
 *.iml
 *.json
